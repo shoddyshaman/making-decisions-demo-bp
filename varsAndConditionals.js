@@ -94,3 +94,5 @@ while(jonSnowHealth > 0){
         console.log(`he has been slain, send the red lady`)
     }
 }
+
+console.log(`hello universe`)
